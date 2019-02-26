@@ -19,7 +19,7 @@ public abstract class  Category {
 		String [] chosenLanguageVersion;
 
 		switch (lang) {
-		case ENGLIStringSH:
+		case ENGLISH:
 			chosenLanguageVersion=passwordsLanguageVersions[0] ;
 			break;
 		case POLISH:
